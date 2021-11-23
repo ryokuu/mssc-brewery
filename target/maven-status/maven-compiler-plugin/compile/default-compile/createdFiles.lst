@@ -1,0 +1,6 @@
+web/controller/BeerController.class
+guru/springframework/msscbrewery/MsscBreweryApplication.class
+guru/springframework/msscbrewery/model/web/BeerDto.class
+guru/springframework/msscbrewery/model/web/BeerDto$BeerDtoBuilder.class
+guru/springframework/msscbrewery/services/BeerService.class
+guru/springframework/msscbrewery/services/BeerServiceImpl.class
